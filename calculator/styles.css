@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(138, 203, 206);
+}
+.title{
+    text-align: center;
+    color: rgb(52, 47, 23);
+    font-family: cursive;
+}
+.bar{
+    text-align: center;
+    margin-top: 10px;
+    padding: 12px 0px;
+    font-size:20px;
+    border:3px solid black;
+    border-radius: 10px;
+}
+.container{
+  background-color:rgb(48, 69, 107);
+  width: 350px; 
+  height: 450px; 
+  border: 3px solid rgb(47, 130, 186);
+  border-radius: 15px;
+}
+.btn{
+ margin-top: 12px;
+ margin-right: 8px;
+    padding: 20px;
+    border:2px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+}
+:hover.btn{
+    background-color:rgb(124, 166, 174);
+  border:2px solid black;
+}
+.btn0{
+  padding: 20px 52px;
+}
