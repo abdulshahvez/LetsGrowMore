@@ -1,0 +1,29 @@
+.header{
+  
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+}
+.data{
+  display: flex;
+}
+.card{
+  width: 400px;
+  height: 100px;
+  border-radius: 1px;
+  background-color: aqua;
+  color: black;
+  margin-bottom: 2px;
+  padding-right: 2px;
+  padding-left: 2px;
+ 
+}
+.name{
+  margin-top: 10px;
+ padding-top: 10px;
+}
+.avatar{
+  margin-top: 10px;
+ padding-top: 10px;
+}
